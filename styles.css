@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(56, 56, 56);
+    margin: 40px;
+    margin-top: 30px;
+    margin-left: 32px;
+  }
+  
+  p{
+    font-size: 18px
+  }
+ 
+  a{
+      font-size: 16px;
+      color: aquamarine
+  }
+  
+  h1{
+      text-align: center;
+  }
